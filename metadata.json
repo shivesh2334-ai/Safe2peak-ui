@@ -1,0 +1,5 @@
+{
+  "name": "Safe2Peak",
+  "description": "Advanced mountain safety and peak performance dashboard. Real-time conditions, safety assessments, and route planning for mountaineers.",
+  "requestFramePermissions": ["geolocation"]
+}
